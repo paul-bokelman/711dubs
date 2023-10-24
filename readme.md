@@ -1,5 +1,3 @@
-# Physical Reward System (WIP)
+# Leaderboard for 711dubs
 
-This repo contains the server and simple terminal interface for the physical reward system. The server runs on the Raspberry PI that is also the brain for the system. The terminal interface is used to configure the system and add tasks easily.
-
-<sub>More information coming soon...</sub>
+This is a fully functional leaderboard for the drinking game 711dubs. You can add a new player, update the standings after a game, and view the leaderboard and statistics in real time. The leaderboard is not hosted anywhere and is locally setup for each session. Currently it is halloween so the leaderboard is themed accordingly. Cheers! 🍾
